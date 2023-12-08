@@ -574,6 +574,13 @@ body {
 		opacity: 1;
 	}
 }
+.biley{
+	position: absolute;
+	top: 40px;
+	left: 5px;
+	height: 70px;
+}
+
 .video{
 	height: 300px;
 	position: absolute;
@@ -722,7 +729,7 @@ body {
 	}
 }
 
-.bulb-glow-blue-after , {
+.bulb-glow-blue-after  {
 	background-image: url('bulb_blue.png');
 	-webkit-animation: bulb_glow_blue_after linear 1.4s infinite;
 	-moz-animation: bulb_glow_blue_after linear 1.4s infinite;
